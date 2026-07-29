@@ -122,8 +122,12 @@ int main(void)
 ```
 
 ## OUTPUT
-![IMG_6698](https://github.com/user-attachments/assets/ea334194-4230-4b2d-aae5-6d63c0a24521)
-![IMG_6699](https://github.com/user-attachments/assets/11a1d47a-e03c-4f1c-9c11-bcbd6ad2dc0f)
+
+<img width="5712" height="4284" alt="IMG_6699" src="https://github.com/user-attachments/assets/8c8a9190-cfa0-4e32-b5af-1cd92e15455d" />
+
+<img width="5712" height="4284" alt="IMG_6698" src="https://github.com/user-attachments/assets/86db58b6-2058-4a97-a264-4567c92c37d5" />
+
+
 
 
 
